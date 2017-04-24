@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>AemTutorials - UI content</comment>
+<entry key="createdBy">Cnsw-68</entry>
+<entry key="name">aemcq5tutorials.ui.content</entry>
+<entry key="created">2017-04-21T14:16:35.226+0530</entry>
+<entry key="groupId">org.training</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">AemTutorials Content Package</entry>
+<entry key="description">UI content package for AemTutorials</entry>
+<entry key="artifactId">aemcq5tutorials.ui.content</entry>
+<entry key="path">/etc/packages/AemTutorials Content Package/aemcq5tutorials.ui.content.zip</entry>
+</properties>

@@ -1,0 +1,6 @@
+org\training\aemcq5tutorials\core\models\HelloWorldModel.class
+org\training\aemcq5tutorials\core\package-info.class
+org\training\aemcq5tutorials\core\servlets\SimpleServlet.class
+org\training\aemcq5tutorials\core\schedulers\SimpleScheduledTask.class
+org\training\aemcq5tutorials\core\filters\LoggingFilter.class
+org\training\aemcq5tutorials\core\listeners\SimpleResourceListener.class
